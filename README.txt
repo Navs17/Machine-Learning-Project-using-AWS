@@ -19,6 +19,3 @@ Files in this ZIP:
    - app-working.png   — Working web app with detected labels
 
 AWS Architecture: See architecture diagram in the accompanying PDF report.
-
-The link for the working website is:-
-http://rekognition-frontend-navneet.s3-website-us-east-1.amazonaws.com
